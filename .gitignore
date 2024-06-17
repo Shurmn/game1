@@ -15,5 +15,5 @@ data_*/
 mono_crash.*.json
 
 # Hugo ignores
-public/
-resources/_gen/
+hugo/public/
+hugo/resources/_gen/
