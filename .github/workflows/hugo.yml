@@ -30,7 +30,6 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    working-directory: ./hugo
     env:
       HUGO_VERSION: 0.124.1
     steps:
@@ -54,6 +53,7 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+        working-directory: ./hugo
         run: |
           hugo \
             --minify \
