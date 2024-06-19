@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 46d29249821e22746be849e384a14f7c
+timeCreated: 1461760818
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loopable_cavebg_0
+    21300002: loopable_cavebg_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: loopable_cavebg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 704
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -325, y: 50.5}
+        - {x: -352, y: 38.5}
+        - {x: -352, y: -5.5}
+        - {x: -134, y: -50.5}
+        - {x: 37, y: -50.5}
+        - {x: 133, y: -28.5}
+        - {x: 352, y: -8.5}
+        - {x: 352, y: 50.5}
+    - name: loopable_cavebg_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 704
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -325, y: 50.5}
+        - {x: -352, y: 38.5}
+        - {x: -352, y: -5.5}
+        - {x: -134, y: -50.5}
+        - {x: 37, y: -50.5}
+        - {x: 133, y: -28.5}
+        - {x: 352, y: -8.5}
+        - {x: 352, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
